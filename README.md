@@ -71,13 +71,14 @@ cd backend
 npm install
 node server.js
 
-💻 Frontend (React + Vite)
+### 💻 Frontend (React + Vite)
 
 Install & Run:
 
 cd frontend
 npm install
 npm run dev
+
 
 
 
