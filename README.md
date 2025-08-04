@@ -49,10 +49,6 @@ project-root/
 
 ---
 
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 🔧 Backend (Express + MongoDB)
@@ -69,6 +65,8 @@ cd backend
 npm install
 node server.js
 
+
+
 ### 💻 Frontend (React + Vite)
 
 Install & Run:
@@ -76,6 +74,7 @@ Install & Run:
 cd frontend
 npm install
 npm run dev
+
 
 
 
