@@ -56,12 +56,8 @@ project-root/
 1. Create `.env` file in `/backend`:
    ```env
    MONGO_URI=mongodb+srv://subhanathasni:6KQJ6501GIoV0A9q@cluster0.7rikoet.mongodb.net/
-
-
-
 Install & Run:
 ```
-
 cd backend
 npm install
 node server.js
@@ -76,6 +72,7 @@ cd frontend
 npm install
 npm run dev
 ```
+
 
 
 
