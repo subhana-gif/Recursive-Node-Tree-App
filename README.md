@@ -38,14 +38,14 @@ A full-stack application that allows users to create, view, and manage hierarchi
 - Render (Hosting)
 
 ---
-
 ## 📁 Project Structure
+```
 
 project-root/
 ├── frontend/ # React + Vite app
 ├── backend/ # Express + MongoDB backend
 └── README.md
-
+```
 
 ---
 
@@ -78,6 +78,7 @@ Install & Run:
 cd frontend
 npm install
 npm run dev
+
 
 
 
