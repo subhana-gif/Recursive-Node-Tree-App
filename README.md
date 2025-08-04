@@ -49,9 +49,7 @@ project-root/
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 🔧 Backend (Express + MongoDB)
 
 ---
 
@@ -78,6 +76,7 @@ Install & Run:
 cd frontend
 npm install
 npm run dev
+
 
 
 
