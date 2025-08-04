@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 p-6">
-      <h1 className="text-2xl font-bold mb-4">🌳 Recursive Node Tree</h1>
+      <h1 className="text-2xl font-bold mb-4"> Recursive Node Tree</h1>
 
       <div className="flex gap-2 mb-6">
         <input
